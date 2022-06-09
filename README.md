@@ -1,4 +1,4 @@
-# JFK-departures
+# <center>Flight delay prediction in JFK airport using machine learning classifiers (98% accuracy, 94% f1-score)</center>
 
 This repository contains the following files:
 
